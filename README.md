@@ -1,3 +1,3 @@
-# PREreview Champions' Handbook 2025
+# PREreview Champions' Handbook 
 
 The source code for the handbook.
