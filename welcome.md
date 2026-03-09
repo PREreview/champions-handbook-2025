@@ -1,7 +1,6 @@
 ---
 title: Welcome
-permalink: /
-nav_order: 1
+
 ---
 
 # Welcome
