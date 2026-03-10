@@ -1,4 +1,7 @@
 title: PREreview Champions’ Handbook
 
-remote_theme: sighingnow/jekyll-gitbook
-search_enabled: false
+theme: jekyll-theme-minimal
+
+
+
+
