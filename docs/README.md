@@ -19,7 +19,8 @@ After the training concludes, PREreview Champions are expected to complete at le
 
 The [CSCCE Community Participation Model](https://www.cscce.org/resources/cpm/) (CPM) below is a useful tool for thinking about how different members of a community interact and describes four modes of community member participation: Convey/Consume, Contribute, Collaborate, and Co-Create, as well as a fifth “super user” mode, the Champion mode.
 
-<img src="/>images/CSCCE model.png" width="400" />
+![CSCCE model.png](https://github.com/PREreview/champions-handbook/blob/90f2de5b2b12fc6d22edb4171a350ab291658a4a/images/CSCCE%20model.png)
+
 
 *Citation: Center for Scientific Collaboration and Community Engagement. (2020) The CSCCE Community Participation Model – A framework for member engagement and information flow in STEM communities. Woodley and Pratt doi:10.5281/zenodo.3997802*   
 
