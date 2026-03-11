@@ -1,3 +1,45 @@
+# Participation Guidelines & Code of Conduct
+
+In the interest of fostering an open and brave environment we, as leadership, contributors, and maintainers, pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of background, family status, gender, gender identity, or expression, marital status, sex, sexual orientation, native language, age, ability, race and/or ethnicity, caste, national origin, socioeconomic status, religion, geographic location, and any other dimension of diversity.
+
+## Expected behaviors
+Example behaviors of PREreview Champions and all PREreview community members include:
+
+- Being respectful of differing viewpoints and experiences
+- Being open to different possibilities and being wrong
+- Using welcoming and inclusive language. Encourage all voices. Help new perspectives to be heard, and listen actively
+- Providing feedback that is constructive
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
+- Respecting the privacy and confidentiality of everyone in the community
+- Maintaining kindness, professionalism, and integrity in all of your interactions
+  
+Particularly in the role of PREreview Champion, you act as a representative of PREreview, and your actions influence others to behave and respond in ways that are valuable and appropriate for our shared outcomes. Hold yourself and others accountable for inclusive behaviors. These behaviors are expected regardless of whether the interaction occurs within our Slack Community, training workshops, via email, or any other online or in-person interaction as part of the PREreview community.   
+
+## Prohibited behaviors
+Examples of unacceptable behaviors by participants include, but are not limited to:
+
+- Violence and threats of violence
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- The use of sexualized language or imagery and unwelcome sexual attention or advances;
+- Public or private harassment
+- Publishing others' private information, such as a physical or electronic address, without explicit permission
+- Providing unconstructive or disruptive feedback on PREreview
+- Posting spam or irrelevant material
+- Influencing unacceptable behavior
+- Reviewing your own preprint
+- Recording and/or sharing content from PREreview training sessions and events without permission
+- Other conduct that could reasonably be considered inappropriate in a professional setting   
+
+Instances of abusive, harassing, or otherwise unacceptable behavior should be reported by filling out our [report form](https://bit.ly/PREreview-report) with the option to be anonymous, emailing report@prereview.org, or by messaging **@safety** on the PREreview Community Slack. In the report, please describe the violation of this Code of Conduct and the context in which it occurred. The more detail you provide, the easier it will be for us to act on the reported misconduct.   
+
+If you email us, please use **“Code of Conduct Violation Report”** as your subject line. If you decide to report the violation via the form and you wish us to follow up with you, please be sure to include your email address at the end of the form.   
+
+All complaints will be reviewed and investigated, and will result in a response determined by the **PREreview Safety Team**. The PREreview Safety Team consists of PREreview’s Executive Director, Head of Community, Head of Product, and Head of Technology. To view the complete response protocol, please refer to our [Code of Conduct](https://prereview.org/code-of-conduct) page on the PREreview website. Please note that Code of Conduct violations may result in you no longer being allowed to participate in the PREreview Champions Program.
+
+----
+
 # Expectations of PREreview Champions    
 
 PREreview Champions are provided with the PREreview Open Reviewers Workshop training and are expected to attend all of the virtual training sessions (with reasonable accommodations to be made where needed). The Champions’ Program Workshop differs from the standard Open Reviewers Workshop in that it focuses on providing Champions with the skills and knowledge to train others in the content. Module I sets the scene with a focus on the impact of personal and structural bias in peer review. Module II provides more practical guidance on how to train others in providing constructive, clear, and actionable feedback to a research manuscript, and Module III focuses on event logistics and human-centered facilitation tips.   
@@ -26,3 +68,19 @@ The [CSCCE Community Participation Model](https://www.cscce.org/resources/cpm/) 
 
 If you have any ideas for activities you would like to run, you can always contact us or your fellow Champions via [Slack](https://prereviewcommunity.slack.com/archives/C0A8747507J) or email us at champions@prereview.org to gather feedback and request any supporting materials. 
 When you have completed an activity, please log the details in the [activity report form](https://bit.ly/PREreview-champions-activity-report).   
+
+----
+# What Champions can expect from PREreview
+
+We want you as a member of our Champions team to feel comfortable and confident in representing PREreview, be this presenting at a conference, writing a blog article, or providing Open Reviewers training to early-career researchers in your community.   
+
+To ensure you feel fully supported and valued in your role, we provide the following:
+- $500 USD honorarium provided upon completion of the training and at least one engagement activity (please note that bank payments may not be possible in some countries; payments may instead be in the form of a gift voucher, please contact us if you have any concerns);
+- PREreview Open Reviewers Training, including certification and digital badge of attendance;
+- A copy of all workshop materials licensed CC BY 4.0, including workshop information, slides, handouts, and templates;
+- Recognition on the PREreview website;
+- Help with content for presentations, training, Live Reviews, and written articles;
+- Personal PREreview Champion 2026 badge for use on email, website, and profile on the PREreview Slack Community;
+- Being included in a supportive community of individuals who share your vision for a more open and equitable scholarly communication landscape.    
+
+This list is not exhaustive. If you ever find that you have any questions or require assistance, you can always contact us, and we are happy to provide you with whatever support we can. Read on to find a list of resources and useful links to help you in your PREreview activities. 
